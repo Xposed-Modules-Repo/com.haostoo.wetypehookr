@@ -1,5 +1,7 @@
 # WeTypeHookR
 
+### com.haostoo.wetypehookr
+
 我很喜欢vivo输入法那个双段震动，但是用词习惯和别的小细节让我想用微信输入法。遂制作此模块给微信输入法也弄一个两段震动。
 
 需要API 101。
