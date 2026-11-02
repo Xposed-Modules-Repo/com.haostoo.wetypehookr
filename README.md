@@ -20,7 +20,7 @@
 
 - 觉得高兴可以喂作者一口🫣
 
-  <img src="app/src/main/res/drawable-nodpi/sponsor.png" alt="喂喂作者" width="200" height="200">
+  <img src="https://github.com/Hao-o0o/WeTypeHookR/blob/master/app%2Fsrc%2Fmain%2Fres%2Fdrawable-nodpi%2Fsponsor.png" alt="喂喂作者" width="200" height="200">
 
 ---
 
